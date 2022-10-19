@@ -11,14 +11,15 @@ evalunidad3-equipo-ok created by GitHub Classroom
  
  **¿Que hemos hecho?**
  
- Realizamos los codigo de: *main
-                           *IsStrategy.c 
-                           *IsStrategy.h
-                           *Context.c
-                           *Context.h
-                           *ConcreteStrategyA.c
-                           *ConcreteStrategyA.h
-                           *ConcreteStrategyB.h
+ Realizamos los codigo de: 
+ - main
+ - IsStrategy.c 
+ - IsStrategy.h
+ - Context.c
+ - Context.h
+ - ConcreteStrategyA.c
+ - ConcreteStrategyA.h
+ - ConcreteStrategyB.h
                            
  En **ConcreteStrategyB.c** aun lo tenemos incompleto 
  y solamente nos hace falta hacer la funcion que nos deje devolver (Osea que en vez de a,b,c,d sea d,c,b,a)
