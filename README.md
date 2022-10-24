@@ -30,5 +30,5 @@ evalunidad3-equipo-ok created by GitHub Classroom
  hemos intentado hacerlo con una funcion llamada "strrev" para devolvernos, pero 
  no nos ha funcionado y por ultimo hicimos los **.o** para verificar que todo lo demas nos estuviera funcionando.
  
- Corregimos el problema que estabamos teniendo en **ConcreteStrategyB.c actualizando y aplicando la funcion strrev
+ Corregimos el problema que estabamos teniendo en **ConcreteStrategyB.c** actualizando y aplicando la funcion strrev
  Y logramos completar el programa.
